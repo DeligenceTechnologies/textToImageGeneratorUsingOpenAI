@@ -1,4 +1,5 @@
 # Image Generator Web App 
+    It converts your written line of text prompt into the best suitable picture according to the given prompt.
 
 # Technologies Used:-
 
