@@ -1,5 +1,6 @@
 # Image Generator Web App 
-    It converts your written line of text prompt into the best suitable picture according to the given prompt.
+    A powerful and versatile text-to-image generator made using OpenAI's DALL·E 2 API. 
+    This generator can help you to create realistic and creative images from text prompts.
 
 # Technologies Used:-
 
